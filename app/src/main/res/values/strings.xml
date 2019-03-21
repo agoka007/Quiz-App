@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">European Championship 2016 Quiz</string>
+
+    <string name="question1">1. Who were the last country to win the tourament as hosts?</string>
+    <string name="question1_choice1">Spain</string>
+    <string name="question1_choice2">France</string>
+    <string name="question1_choice3">Italy</string>
+
+    <string name="question2">Who scored in final?</string>
+
+    <string name="question3">Who played in the final?</string>
+    <string name="question3_choice1">Cristiano Rolando</string>
+    <string name="question3_choice2">Harry Kane</string>
+    <string name="question3_choice3">Pogba</string>
+    <string name="question3_choice4">Manuel Neuer</string>
+
+    <string name="question4">Which of the 24 managers at Euro 2016 won the tournament as a player?</string>
+    <string name="question4_choice1">Didier Deschamps</string>
+    <string name="question4_choice2">Bernd Storck</string>
+
+    <string name="question5">Who was the referee for the final?</string>
+    <string name="question5_choice1">Viktor Kassai</string>
+    <string name="question5_choice2">Mark Clattenburg</string>
+    <string name="question5_choice3">Felix Brych</string>
+
+    <string name="question6">Which of the 24 countries at Euro 2016 has the smallest population?</string>
+    <string name="question6_choice1">Wales</string>
+    <string name="question6_choice2">Slovakia</string>
+    <string name="question6_choice3">Iceland</string>
+
+    <string name="question7">Which country has the youngest squad at Euro 2016?</string>
+
+    <string name="question8">Teams in group B:</string>
+    <string name="question8_choice1">England</string>
+    <string name="question8_choice2">Croatia</string>
+    <string name="question8_choice3">Hungary</string>
+    <string name="question8_choice4">Russia</string>
+
+    <string name="submit">Submit</string>
+</resources>

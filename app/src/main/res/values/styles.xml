@@ -1,0 +1,84 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TitleTextStyle">
+        <item name="android:fontFamily">@font/nunito_bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:layout_margin">20dp</item>
+    </style>
+
+    <style name="EditTextStyle">
+        <item name="android:fontFamily">@font/nunito_light</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:layout_margin">16dp</item>
+        <item name="android:textColorHint">@color/textColor</item>
+    </style>
+
+    <style name="ImageStyle">
+        <item name="android:layout_margin">16dp</item>
+    </style>
+
+    <style name="QuestionTextStyle">
+        <item name="android:fontFamily">@font/nunito_bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:layout_margin">16dp</item>
+    </style>
+
+    <style name="RadioButtonStyle">
+        <item name="android:fontFamily">@font/nunito_light</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:buttonTint">@color/buttonColor</item>
+
+    </style>
+
+    <style name="BottomRadioButtonStyle">
+        <item name="android:fontFamily">@font/nunito_light</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:buttonTint">@color/buttonColor</item>
+        <item name="android:layout_marginBottom">16dp</item>
+
+    </style>
+
+    <style name="CheckBoxStyle">
+        <item name="android:fontFamily">@font/nunito_light</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:buttonTint">@color/buttonColor</item>
+    </style>
+
+    <style name="BottomCheckBoxStyle">
+        <item name="android:fontFamily">@font/nunito_light</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:buttonTint">@color/buttonColor</item>
+        <item name="android:layout_marginBottom">16dp</item>
+    </style>
+
+    <style name="BackgroundView">
+        <item name="android:background">@drawable/shape</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:radius">50dp</item>
+    </style>
+
+    <style name="SubmitButton">
+        <item name="android:text">@string/submit</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:background">@drawable/button_shape</item>
+        <item name="android:radius">50dp</item>
+        <item name="android:fontFamily">@font/nunito_bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+    </style>
+
+</resources>
